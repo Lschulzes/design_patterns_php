@@ -1,0 +1,1001 @@
+id,name,breed,gender,owner
+1,Kori bustard,Choriotis kori,F,Lucrèce
+2,"Gazer, sun",Cordylus giganteus,F,Stéphanie
+3,Racer snake,Coluber constrictor,M,Fèi
+4,"Monster, gila",Heloderma horridum,F,Gwenaëlle
+5,Common melba finch,Pytilia melba,F,Frédérique
+6,Monitor lizard (unidentified),Varanus sp.,M,Alizée
+7,"Jaeger, long-tailed",Stercorarius longicausus,M,Clélia
+8,"Albatross, waved",Diomedea irrorata,F,Célestine
+9,Red-winged hawk (unidentified),unavailable,M,Marie-noël
+10,Bobcat,Felis rufus,M,Marie-françoise
+11,Levaillant's barbet,Trachyphonus vaillantii,M,Crééz
+12,"Buffalo, african",Snycerus caffer,M,Laïla
+13,African elephant,Loxodonta africana,F,Maëlann
+14,Galapagos mockingbird,Nesomimus trifasciatus,M,Irène
+15,"Macaw, blue and gold",Ara ararauna,F,Léonie
+16,Black-winged stilt,Himantopus himantopus,M,Salomé
+17,Darwin ground finch (unidentified),Geospiza sp.,M,Mélissandre
+18,Marabou stork,Leptoptilos crumeniferus,M,Néhémie
+19,Weeper capuchin,Cebus nigrivittatus,M,Pò
+20,Malleefowl,Leipoa ocellata,F,Vérane
+21,"Tortoise, radiated",Geochelone radiata,M,Simplifiés
+22,Western patch-nosed snake,Salvadora hexalepis,M,Märta
+23,White-lipped peccary,Tayassu pecari,F,Intéressant
+24,Red-breasted cockatoo,Eolophus roseicapillus,M,Clémentine
+25,"Buffalo, wild water",Bubalus arnee,F,Régine
+26,"Goose, egyptian",Alopochen aegyptiacus,M,Clémence
+27,Yellow baboon,Papio cynocephalus,F,Marlène
+28,"Badger, honey",Mellivora capensis,M,Léone
+29,Killer whale,Orcinus orca,M,Léone
+30,Bee-eater (unidentified),Merops sp.,M,Yénora
+31,Bald eagle,Haliaeetus leucocephalus,M,Mégane
+32,"Otter, brazilian",Pteronura brasiliensis,F,Inès
+33,"Squirrel, european red",Sciurus vulgaris,M,Solène
+34,"Waxbill, blue",Uraeginthus angolensis,M,Aurélie
+35,Red-tailed phascogale,Phascogale calura,F,Magdalène
+36,Musk ox,Ovibos moschatus,M,Dà
+37,"Stork, european",Ciconia ciconia,M,Mylène
+38,"Loris, slender",Loris tardigratus,M,Renée
+39,"Zorro, azara's",Pseudalopex gymnocercus,M,Félicie
+40,Nine-banded armadillo,Dasypus novemcinctus,F,Clémence
+41,"Cormorant, large",Phalacrocorax carbo,M,Åsa
+42,"Tinamou, elegant crested",Eudromia elegans,M,Dafnée
+43,"Crane, stanley",Anthropoides paradisea,F,Mélodie
+44,Two-banded monitor,Varanus salvator,F,Camélia
+45,"Goose, knob-nosed",Sarkidornis melanotos,F,Séverine
+46,"Otter, canadian river",Lutra canadensis,F,Mà
+47,Crab (unidentified),unavailable,M,Edmée
+48,"Boubou, southern",Laniarius ferrugineus,F,Véronique
+49,"Civet, common palm",Paradoxurus hermaphroditus,F,Léana
+50,"Boar, wild",Sus scrofa,M,Mélinda
+51,"Insect, stick",Leprocaulinus vipera,F,Clémence
+52,Greater sage grouse,Centrocercus urophasianus,F,Maëlann
+53,"Hyena, brown",Hyaena brunnea,M,Dù
+54,"Hartebeest, red",Alcelaphus buselaphus caama,M,Sòng
+55,European red squirrel,Sciurus vulgaris,F,Kuí
+56,Goliath heron,Ardea golieth,M,Adélaïde
+57,Nelson ground squirrel,Ammospermophilus nelsoni,M,Zhì
+58,Red-tailed hawk,Buteo jamaicensis,F,Camélia
+59,Carpet python,Morelia spilotes variegata,F,Anaëlle
+60,"Bandicoot, southern brown",Isoodon obesulus,F,Maëline
+61,Kirk's dik dik,Madoqua kirkii,M,Faîtes
+62,Common raccoon,Procyon lotor,F,Lèi
+63,"Wambenger, red-tailed",Phascogale calura,M,Kù
+64,"Otter, cape clawless",Aonyx capensis,M,Lyséa
+65,"Lion, galapagos sea",Zalophus californicus,M,Séréna
+66,Mountain lion,Felis concolor,F,Maïté
+67,Dark-winged trumpeter,Psophia viridis,M,Hélèna
+68,White-browed owl,Ninox superciliaris,F,Cécilia
+69,Raccoon dog,Nyctereutes procyonoides,M,Nuó
+70,Black-faced kangaroo,Macropus fuliginosus,F,Yénora
+71,Common wombat,Vombatus ursinus,F,Anaïs
+72,"Jackal, golden",Canis aureus,F,Nadège
+73,Yellow-throated sandgrouse,Pterocles gutturalis,F,Maï
+74,"Lark, horned",Eremophila alpestris,F,Camélia
+75,"Goose, snow",Anser caerulescens,M,Cloé
+76,"Duck, white-faced whistling",Dendrocygna viduata,M,André
+77,Long-billed corella,Cacatua tenuirostris,M,Lài
+78,"Crow, house",Corvus brachyrhynchos,M,Judicaël
+79,Anaconda (unidentified),Eunectes sp.,F,Vérane
+80,"Tortoise, asian foreset",Manouria emys,M,Solène
+81,"Mynah, indian",Acridotheres tristis,F,Danièle
+82,Asiatic wild ass,Equus hemionus,M,Jú
+83,"Moccasin, water",Agkistrodon piscivorus,F,Wá
+84,Beisa oryx,Oryx gazella,F,Adélaïde
+85,Silver-backed jackal,Canis mesomelas,M,Lài
+86,American black bear,Ursus americanus,F,André
+87,Black kite,Milvus migrans,M,Eliès
+88,"Penguin, magellanic",Spheniscus magellanicus,M,Loïs
+89,Black-cheeked waxbill,Estrilda erythronotos,F,Maëlys
+90,"Gazelle, thomson's",Gazella thompsonii,M,Clémence
+91,"Crow, house",Corvus brachyrhynchos,M,Maëlys
+92,Red-tailed phascogale,Phascogale calura,F,Erwéi
+93,Marabou stork,Leptoptilos crumeniferus,M,Méryl
+94,Slender loris,Loris tardigratus,F,Josée
+95,Common boubou shrike,Laniarius ferrugineus,F,Almérinda
+96,Snake-necked turtle,Chelodina longicollis,F,Adélaïde
+97,"Buffalo, asian water",Bubalus arnee,M,Fèi
+98,"Badger, european",Meles meles,M,Gaëlle
+99,"Caiman, spectacled",Caiman crocodilus,F,Almérinda
+100,"Marten, american",Martes americana,F,Gaétane
+101,"Wallaby, euro",Macropus robustus,M,Célia
+102,"Booby, blue-footed",Sula nebouxii,M,Rachèle
+103,Blesbok,Damaliscus dorcas,M,Pélagie
+104,"Legaan, Monitor (unidentified)",Varanus sp.,F,Bérénice
+105,River wallaby,Macropus agilis,M,Célestine
+106,"Goose, snow",Anser caerulescens,F,Marie-josée
+107,Blue-faced booby,Sula dactylatra,F,Crééz
+108,"Cockatoo, sulfur-crested",Cacatua galerita,F,Eliès
+109,"Wombat, common",Vombatus ursinus,M,Méline
+110,Blue catfish,Ictalurus furcatus,M,Marie-françoise
+111,Hanuman langur,Semnopithecus entellus,F,Salomé
+112,Greater roadrunner,Geococcyx californianus,F,Stéphanie
+113,Cape starling,Lamprotornis nitens,F,Marlène
+114,Giraffe,Giraffe camelopardalis,F,Adélaïde
+115,Onager,Equus hemionus,F,Dù
+116,"Squirrel, richardson's ground",Spermophilus richardsonii,M,Hélèna
+117,Grison,Galictis vittata,M,Simplifiés
+118,Pied cormorant,Phalacrocorax varius,M,Håkan
+119,"Penguin, fairy",Eudyptula minor,M,Gösta
+120,Gemsbok,Oryx gazella,M,Aurélie
+121,Golden-mantled ground squirrel,Spermophilus lateralis,M,Edmée
+122,"Jaeger, long-tailed",Stercorarius longicausus,F,Kù
+123,"Dog, black-tailed prairie",Cynomys ludovicianus,M,Wá
+124,White-tailed jackrabbit,Lepus townsendii,F,Lyséa
+125,Northern phalarope,Phalaropus lobatus,F,Anaïs
+126,Woolly-necked stork,Ciconia episcopus,F,Gérald
+127,Clark's nutcracker,Nucifraga columbiana,F,Eléa
+128,Crested barbet,Trachyphonus vaillantii,F,Méline
+129,Indian red admiral,Vanessa indica,M,Bécassine
+130,"Bee-eater, nubian",Merops nubicus,M,Adèle
+131,"Plover, three-banded",Charadrius tricollaris,M,Naéva
+132,"Shrike, common boubou",Laniarius ferrugineus,F,Médiamass
+133,Wolf spider,Lycosa godeffroyi,F,Marie-ève
+134,"Jacana, african",Actophilornis africanus,F,Mélia
+135,Violet-crested turaco,Tauraco porphyrelophus,F,Almérinda
+136,Ringtail,Bassariscus astutus,M,André
+137,Horned lark,Eremophila alpestris,M,Sélène
+138,"Tortoise, burmese brown mountain",Manouria emys,F,Michèle
+139,Whip-tailed wallaby,Macropus parryi,F,Dorothée
+140,Numbat,Myrmecobius fasciatus,F,Magdalène
+141,Monitor lizard (unidentified),Varanus sp.,F,Almérinda
+142,"Badger, american",Taxidea taxus,M,Loïs
+143,"Badger, american",Taxidea taxus,F,Léonie
+144,"Seal, common",Phoca vitulina,F,Thérèsa
+145,Red-billed toucan,Ramphastos tucanus,M,Eloïse
+146,Giant girdled lizard,Cordylus giganteus,M,Irène
+147,Small-toothed palm civet,Arctogalidia trivirgata,M,Maëlann
+148,Silver-backed fox,Vulpes chama,F,Aí
+149,African black crake,Limnocorax flavirostra,M,Hélèna
+150,"Eagle, white-bellied sea",Haliaetus leucogaster,M,Erwéi
+151,"Monster, gila",Heloderma horridum,M,Marie-hélène
+152,"Bandicoot, short-nosed",Isoodon obesulus,F,Réjane
+153,"Wombat, southern hairy-nosed",Lasiorhinus latifrons,M,Renée
+154,Brazilian otter,Pteronura brasiliensis,F,Françoise
+155,"Buffalo, american",Bison bison,F,Åke
+156,"Rhinoceros, square-lipped",Ceratotherium simum,F,Crééz
+157,Eastern cottontail rabbit,Sylvilagus floridanus,F,Mélys
+158,"Partridge, coqui",Francolinus coqui,F,Erwéi
+159,"Albatross, galapagos",Diomedea irrorata,F,Aloïs
+160,Little grebe,Tachybaptus ruficollis,M,Françoise
+161,Oribi,Ourebia ourebi,M,Eléa
+162,"Goose, snow",Anser caerulescens,F,Bérénice
+163,Striped hyena,Hyaena hyaena,M,Personnalisée
+164,African lion,Panthera leo,F,Ruò
+165,"Bunting, crested",Melophus lathami,F,Gaïa
+166,Indian giant squirrel,Ratufa indica,M,Athéna
+167,Crimson-breasted shrike,Laniaurius atrococcineus,M,Börje
+168,"Armadillo, common long-nosed",Dasypus novemcinctus,F,Yú
+169,Giant anteater,Myrmecophaga tridactyla,M,Uò
+170,"Sheep, red",Ovis ammon,F,Åke
+171,"Penguin, little blue",Eudyptula minor,F,Fèi
+172,Asian water dragon,Physignathus cocincinus,F,Mélanie
+173,South American meadowlark (unidentified),unavailable,F,Faîtes
+174,"Lemur, sportive",Lepilemur rufescens,F,Ruò
+175,"Turtle, long-necked",Chelodina longicollis,M,Pélagie
+176,"Fox, north american red",Vulpes vulpes,M,Adélie
+177,"Armadillo, giant",Priodontes maximus,M,Marie-josée
+178,"Porcupine, north american",Erethizon dorsatum,M,Méthode
+179,Richardson's ground squirrel,Spermophilus richardsonii,F,Thérèsa
+180,"Woodpecker, downy",Picoides pubescens,M,Gaïa
+181,Ibex,Capra ibex,M,Personnalisée
+182,Little grebe,Tachybaptus ruficollis,M,Marie-josée
+183,"Hornbill, yellow-billed",Tockus flavirostris,M,Joséphine
+184,"Bear, sloth",Melursus ursinus,M,Gösta
+185,Gray duiker,Sylvicapra grimma,M,Mégane
+186,"Swan, black",Cygnus atratus,F,Ophélie
+187,Common rhea,Rhea americana,M,Réservés
+188,"Zorro, azara's",Pseudalopex gymnocercus,M,Publicité
+189,Sugar glider,Petaurus breviceps,M,Naëlle
+190,Red-breasted cockatoo,Eolophus roseicapillus,M,Ruò
+191,Timber wolf,Canis lupus lycaon,M,Lyséa
+192,"Crow, house",Corvus brachyrhynchos,F,Mégane
+193,"Turtle, snake-necked",Chelodina longicollis,F,Néhémie
+194,"Jackal, black-backed",Canis mesomelas,F,Thérèse
+195,"Lion, steller sea",Eumetopias jubatus,F,Maï
+196,Black-winged stilt,Himantopus himantopus,M,Maëlle
+197,"Sloth, pale-throated three-toed",Bradypus tridactylus,M,Maëlla
+198,"Wolf, timber",Canis lupus lycaon,M,Clémence
+199,Rufous-collared sparrow,Zonotrichia capensis,F,Athéna
+200,"Skink, blue-tongued",Tiliqua scincoides,F,Geneviève
+201,"Cat, jungle",Felis chaus,M,Annotée
+202,"Cat, jungle",Felis chaus,F,Anaëlle
+203,Pronghorn,Antilocapra americana,F,Agnès
+204,"Lorikeet, scaly-breasted",Trichoglossus chlorolepidotus,F,Maïly
+205,"Baboon, savanna",Papio cynocephalus,M,Léane
+206,Grey lourie,Lorythaixoides concolor,F,Véronique
+207,Brazilian otter,Pteronura brasiliensis,F,Véronique
+208,"Wallaby, dama",Macropus eugenii,M,Aurélie
+209,Eastern box turtle,Terrapene carolina,F,Maëly
+210,"Curlew, black",Haematopus ater,M,Anaëlle
+211,"Plover, three-banded",Charadrius tricollaris,F,Véronique
+212,King cormorant,Phalacrocorax albiventer,M,Dorothée
+213,Agouti,Dasyprocta leporina,M,Liè
+214,Hippopotamus,Hippopotamus amphibius,F,Annotés
+215,Striped dolphin,Stenella coeruleoalba,F,Cloé
+216,"Cat, tiger",Dasyurus maculatus,M,Kuí
+217,"Beaver, north american",Castor canadensis,M,Léa
+218,"Marten, american",Martes americana,F,Eléonore
+219,"Tortoise, indian star",Geochelone elegans,M,Garçon
+220,"Bandicoot, southern brown",Isoodon obesulus,F,Andrée
+221,Greater adjutant stork,Leptoptilus dubius,M,Cécilia
+222,Galapagos penguin,Spheniscus mendiculus,F,Réservés
+223,Southern tamandua,Tamandua tetradactyla,F,Esbjörn
+224,"Sloth, two-toed tree",Choloepus hoffmani,F,Lucrèce
+225,Ground legaan,Varanus sp.,F,Simplifiés
+226,"Gecko, bent-toed",Cyrtodactylus louisiadensis,F,Michèle
+227,"Turkey, wild",Meleagris gallopavo,F,Léana
+228,"Langur, gray",Semnopithecus entellus,M,Marlène
+229,Puku,Kobus vardonii vardoni,F,Néhémie
+230,"Monkey, bleeding heart",Theropithecus gelada,M,Mélissandre
+231,"Pigeon, wood",Columba palumbus,M,Léana
+232,"Civet, small-toothed palm",Arctogalidia trivirgata,F,Wá
+233,"Lion, california sea",Zalophus californicus,M,Pénélope
+234,Gray langur,Semnopithecus entellus,F,Yénora
+235,"Squirrel, uinta ground",Spermophilus armatus,M,Océanne
+236,"Bear, black",Ursus americanus,M,Personnalisée
+237,Pig-tailed macaque,Macaca nemestrina,M,Rébecca
+238,Eurasian badger,Meles meles,M,Thérèsa
+239,Openbill stork,Anastomus oscitans,F,Eugénie
+240,White-nosed coatimundi,Nasua narica,M,Lyséa
+241,"Elk, Wapiti",Cervus canadensis,M,Intéressant
+242,"Capuchin, black-capped",Cebus apella,F,Anaëlle
+243,Frilled lizard,Chlamydosaurus kingii,M,Kuí
+244,Flying fox (unidentified),unavailable,M,Lauréna
+245,"Squirrel, golden-mantled ground",Spermophilus lateralis,F,Börje
+246,"Lizard, desert spiny",Sceloporus magister,F,Hélèna
+247,"Squirrel, golden-mantled ground",Spermophilus lateralis,F,Kallisté
+248,Pine siskin,Carduelis pinus,F,Maëlyss
+249,Yak,Bos mutus,M,Léa
+250,Short-beaked echidna,Tachyglossus aculeatus,F,Kù
+251,"Bear, polar",Ursus maritimus,F,Aloïs
+252,"Sheep, stone",Ovis dalli stonei,M,Daphnée
+253,Four-striped grass mouse,Rhabdomys pumilio,F,Bénédicte
+254,Silver-backed jackal,Canis mesomelas,F,Cléopatre
+255,Magellanic penguin,Spheniscus magellanicus,M,Mårten
+256,Green heron,Butorides striatus,F,Maïlys
+257,Long-necked turtle,Chelodina longicollis,F,Mélanie
+258,Common ringtail,Pseudocheirus peregrinus,F,Liè
+259,"Dunnart, fat-tailed",Smithopsis crassicaudata,M,Yú
+260,"Starfish, crown of thorns",Acanthaster planci,M,Tú
+261,White-tailed deer,Odocoilenaus virginianus,F,Cléa
+262,"Pigeon, wood",Columba palumbus,F,Maïwenn
+263,Cape starling,Lamprotornis nitens,M,Illustrée
+264,Vervet monkey,Cercopithecus aethiops,M,Örjan
+265,Wolf spider,Lycosa godeffroyi,F,Eliès
+266,Small-toothed palm civet,Arctogalidia trivirgata,F,Intéressant
+267,Laughing kookaburra,Dacelo novaeguineae,F,Örjan
+268,"Bandicoot, southern brown",Isoodon obesulus,F,Pò
+269,"Sloth, pale-throated three-toed",Bradypus tridactylus,F,Maëly
+270,"Otter, canadian river",Lutra canadensis,F,Illustrée
+271,"Sungazer, yellow-brown",Cordylus giganteus,F,Médiamass
+272,"Ibis, glossy",Plegadis falcinellus,M,Angélique
+273,Desert kangaroo rat,Dipodomys deserti,F,Pò
+274,"Lemur, sportive",Lepilemur rufescens,M,Loïca
+275,"Otter, canadian river",Lutra canadensis,M,Noëlla
+276,"Jackal, golden",Canis aureus,M,Maëlyss
+277,Golden jackal,Canis aureus,M,Vérane
+278,Tiger snake,Notechis semmiannulatus,F,Aimée
+279,African lion,Panthera leo,F,Véronique
+280,Malay squirrel (unidentified),unavailable,F,Clélia
+281,Agile wallaby,Macropus agilis,F,Bécassine
+282,"Deer, black-tailed",Odocoileus hemionus,M,Mårten
+283,Hanuman langur,Semnopithecus entellus,M,Léone
+284,Gambel's quail,Callipepla gambelii,M,Uò
+285,Koala,Phascolarctos cinereus,F,Marylène
+286,Bee-eater (unidentified),Merops sp.,F,Audréanne
+287,Yak,Bos mutus,F,Océane
+288,Giraffe,Giraffe camelopardalis,F,Lyséa
+289,Galapagos mockingbird,Nesomimus trifasciatus,F,Mégane
+290,"Plover, three-banded",Charadrius tricollaris,M,Léonie
+291,Red-winged hawk (unidentified),unavailable,F,Léana
+292,Grey fox,Vulpes cinereoargenteus,F,Ruò
+293,Sloth bear,Melursus ursinus,F,Kù
+294,"Darter, african",Anhinga rufa,M,Mélanie
+295,"Cat, european wild",Felis silvestris lybica,F,Salomé
+296,Great white pelican,Pelecans onocratalus,F,Gwenaëlle
+297,Brush-tailed rat kangaroo,Bettongia penicillata,M,Maïwenn
+298,Komodo dragon,Varanus komodensis,M,Inès
+299,Jabiru stork,Ephippiorhynchus mycteria,M,Cloé
+300,"Lion, california sea",Zalophus californicus,M,Annotés
+301,"Monkey, rhesus",Macaca mulatta,M,Mylène
+302,Eastern boa constrictor,Acrantophis madagascariensis,F,Judicaël
+303,"Bear, grizzly",Ursus arctos,M,Cinéma
+304,Hippopotamus,Hippopotamus amphibius,M,Léone
+305,Toddy cat,Paradoxurus hermaphroditus,F,Åslög
+306,"Wombat, southern hairy-nosed",Lasiorhinus latifrons,M,Mélanie
+307,"Bandicoot, short-nosed",Isoodon obesulus,F,Táng
+308,"Legaan, water",Varanus salvator,F,Anaïs
+309,Southern lapwing,Vanellus chilensis,M,Aloïs
+310,"Trotter, lily",Actophilornis africanus,M,Gisèle
+311,Black kite,Milvus migrans,F,Amélie
+312,Small Indian mongoose,Herpestes javanicus,F,Personnalisée
+313,Burchell's gonolek,Laniaurius atrococcineus,F,Célia
+314,Lilac-breasted roller,Coracias caudata,F,Maïly
+315,Lilac-breasted roller,Coracias caudata,F,Angèle
+316,Ant (unidentified),unavailable,M,Laurélie
+317,"Langur, common",Semnopithecus entellus,M,Örjan
+318,"Heron, gray",Ardea cinerea,M,Bécassine
+319,"Kudu, greater",Tragelaphus strepsiceros,F,Josée
+320,Bird (unidentified),unavailable,F,Ráo
+321,Blue peacock,Pavo cristatus,F,Lèi
+322,Grey mouse lemur,Microcebus murinus,M,Dà
+323,Red phalarope,Phalaropus fulicarius,F,Åke
+324,Eastern cottontail rabbit,Sylvilagus floridanus,M,Esbjörn
+325,Least chipmunk,Eutamias minimus,M,Mélodie
+326,Eurasian red squirrel,Sciurus vulgaris,F,Laïla
+327,Woodrat (unidentified),Neotoma sp.,F,Maï
+328,"Grenadier, purple",Uraeginthus granatina,F,Eléonore
+329,White-browed sparrow weaver,Plocepasser mahali,M,Marie-josée
+330,Dama wallaby,Macropus eugenii,M,Illustrée
+331,Blue and gold macaw,Ara ararauna,F,Dorothée
+332,"Screamer, crested",Chauna torquata,F,Séréna
+333,Ring-tailed coatimundi,Nasua nasua,M,Göran
+334,African pied wagtail,Motacilla aguimp,F,Loïca
+335,"Phalarope, northern",Phalaropus lobatus,M,Simplifiés
+336,"Tortoise, burmese black mountain",Manouria emys,M,Josée
+337,Andean goose,Chloephaga melanoptera,F,Angèle
+338,"Lourie, grey",Lorythaixoides concolor,M,Rachèle
+339,Black-backed jackal,Canis mesomelas,F,Méghane
+340,"Robin, white-throated",Irania gutteralis,M,Publicité
+341,Snowy owl,Nyctea scandiaca,F,Gwenaëlle
+342,"Wallaby, river",Macropus agilis,M,Lài
+343,Barrows goldeneye,Bucephala clangula,M,Åke
+344,"Macaw, blue and yellow",Ara ararauna,M,Aí
+345,Scaly-breasted lorikeet,Trichoglossus chlorolepidotus,M,Cléopatre
+346,Large cormorant,Phalacrocorax carbo,F,Marie-hélène
+347,Sage hen,Centrocercus urophasianus,M,Loïs
+348,Huron,Galictis vittata,M,Maïlis
+349,"Jacana, african",Actophilornis africanus,M,Séréna
+350,"Bison, american",Bison bison,M,Fèi
+351,Red-necked wallaby,Macropus rufogriseus,M,Frédérique
+352,Striped dolphin,Stenella coeruleoalba,F,Yáo
+353,Purple grenadier,Uraeginthus granatina,M,Adélaïde
+354,"Bunting, crested",Melophus lathami,F,Géraldine
+355,"Kingfisher, white-throated",Halcyon smyrnesis,M,Publicité
+356,"Swan, trumpeter",Cygnus buccinator,M,Océanne
+357,Praying mantis (unidentified),unavailable,F,Marie-ève
+358,"Heron, green-backed",Butorides striatus,F,Gisèle
+359,"Sheep, stone",Ovis dalli stonei,F,Chloé
+360,"Hoopoe, eurasian",Upupa epops,M,Crééz
+361,"Squirrel, european red",Sciurus vulgaris,M,Personnalisée
+362,"Caracara, yellow-headed",Milvago chimachima,F,Gwenaëlle
+363,Malachite kingfisher,Corythornis cristata,F,Irène
+364,Magnificent frigate bird,Fregata magnificans,F,Marylène
+365,African lynx,Felis caracal,M,Renée
+366,Lappet-faced vulture,Aegypius tracheliotus,M,Lóng
+367,Southern lapwing,Vanellus chilensis,F,Mélissandre
+368,"Teal, hottentot",Anas punctata,M,Eléonore
+369,"Waterbuck, common",Kobus defassa,M,Rachèle
+370,"Raccoon, crab-eating",Procyon cancrivorus,M,Méghane
+371,Egyptian goose,Alopochen aegyptiacus,F,Yú
+372,"Starling, greater blue-eared",Lamprotornis chalybaeus,F,Erwéi
+373,"Bandicoot, short-nosed",Isoodon obesulus,M,Marie-françoise
+374,"Lion, galapagos sea",Zalophus californicus,F,Maïlis
+375,Crowned eagle,Spizaetus coronatus,F,Andréa
+376,"Beaver, american",Castor canadensis,M,Salomé
+377,"Rhinoceros, black",Diceros bicornis,M,Åsa
+378,"Goldeneye, barrows",Bucephala clangula,F,Géraldine
+379,Desert kangaroo rat,Dipodomys deserti,M,Angèle
+380,"Colobus, white-mantled",Colobus guerza,M,Vérane
+381,Python (unidentified),unavailable,F,Célestine
+382,"Crow, pied",Corvus albus,F,Eloïse
+383,"Stilt, black-winged",Himantopus himantopus,M,Dafnée
+384,"Shelduck, common",Tadorna tadorna,M,Gérald
+385,"Rat, white-faced tree",Echimys chrysurus,F,Anaël
+386,"Squirrel, nelson ground",Ammospermophilus nelsoni,M,Mélina
+387,Swallow (unidentified),unavailable,F,Clémence
+388,"Stork, painted",Mycteria leucocephala,M,Magdalène
+389,"Gazelle, thomson's",Gazella thompsonii,M,Judicaël
+390,"Stork, saddle-billed",Ephipplorhynchus senegalensis,M,Maëly
+391,Worm snake (unidentified),Carphophis sp.,F,Lèi
+392,White spoonbill,Platalea leucordia,M,Maéna
+393,"Owl, white-browed",Ninox superciliaris,F,Esbjörn
+394,"Monkey, red howler",Alouatta seniculus,M,Illustrée
+395,"Lion, california sea",Zalophus californicus,M,Marie-josée
+396,Goliath heron,Ardea golieth,M,Dà
+397,White-necked raven,Corvus albicollis,M,Adélaïde
+398,"Creeper, black-tailed tree",Climacteris melanura,M,Clémentine
+399,"Tern, white-winged",Chlidonias leucopterus,F,Stéphanie
+400,"Macaw, red and blue",Ara chloroptera,F,Mà
+401,Black-faced kangaroo,Macropus fuliginosus,F,Garçon
+402,Tayra,Eira barbata,F,Bérengère
+403,"Turtle, long-necked",Chelodina longicollis,M,Annotée
+404,"Stork, black-necked",Ephippiorhynchus mycteria,F,Göran
+405,"Cormorant, flightless",Nannopterum harrisi,F,Félicie
+406,"Otter, african clawless",Aonyx capensis,M,Léonore
+407,"Weaver, sociable",Philetairus socius,M,Mélia
+408,"Possum, western pygmy",Cercatetus concinnus,M,Eloïse
+409,"Tern, white-winged",Chlidonias leucopterus,M,Marie-ève
+410,Fork-tailed drongo,Dicrurus adsimilis,F,Gwenaëlle
+411,Ground legaan,Varanus sp.,F,Rachèle
+412,"Coot, red-knobbed",Fulica cristata,F,Lyséa
+413,Common nighthawk,Chordeiles minor,F,Andréanne
+414,Killer whale,Orcinus orca,M,Loïs
+415,Cormorant (unidentified),unavailable,M,Mélina
+416,Wild turkey,Meleagris gallopavo,F,Andréanne
+417,Field flicker,Colaptes campestroides,F,Agnès
+418,"Bear, sloth",Melursus ursinus,M,Stévina
+419,Short-nosed bandicoot,Isoodon obesulus,F,Lài
+420,Ring-necked pheasant,Phasianus colchicus,M,Yóu
+421,"Loris, slender",Loris tardigratus,F,Dù
+422,"Bird, black-throated butcher",Cracticus nigroagularis,F,Yóu
+423,"Hornbill, red-billed",Tockus erythrorhyncus,M,Kù
+424,African wild cat,Felis silvestris lybica,F,Kù
+425,Brush-tailed bettong,Bettongia penicillata,M,Táng
+426,Grey phalarope,Phalaropus fulicarius,F,Esbjörn
+427,Coyote,Canis latrans,M,Gaëlle
+428,Purple moorhen,Porphyrio porphyrio,F,Björn
+429,Galapagos penguin,Spheniscus mendiculus,M,Bérangère
+430,Cuis,Microcavia australis,F,Méthode
+431,Grey phalarope,Phalaropus fulicarius,F,Magdalène
+432,"Monkey, rhesus",Macaca mulatta,F,Andréanne
+433,European beaver,Castor fiber,F,Táng
+434,"Turtle, eastern box",Terrapene carolina,F,Léana
+435,"Lion, australian sea",Neophoca cinerea,F,Mà
+436,"Dove, emerald-spotted wood",Turtur chalcospilos,F,Véronique
+437,Greater blue-eared starling,Lamprotornis chalybaeus,M,Mélys
+438,"Deer, roe",Capreolus capreolus,F,Gisèle
+439,"Deer, roe",Capreolus capreolus,F,Renée
+440,Eastern white pelican,Pelecans onocratalus,F,Pélagie
+441,Red deer,Cervus elaphus,M,Mélissandre
+442,Pine siskin,Carduelis pinus,F,Lyséa
+443,Common raccoon,Procyon lotor,M,Angèle
+444,Herring gull,unavailable,M,Adèle
+445,"Langur, hanuman",Semnopithecus entellus,F,Östen
+446,"Weaver, red-billed buffalo",Bubalornis niger,M,Yénora
+447,"Legaan, ground",Varanus sp.,M,Estée
+448,European shelduck,Tadorna tadorna,M,Desirée
+449,Australian magpie,Gymnorhina tibicen,F,Annotés
+450,"Bulbul, african red-eyed",Pycnonotus nigricans,F,Geneviève
+451,"Sifaka, verreaux's",Propithecus verreauxi,F,Aimée
+452,Northern phalarope,Phalaropus lobatus,M,Gaëlle
+453,Red-shouldered glossy starling,Lamprotornis nitens,M,Clélia
+454,Striped hyena,Hyaena hyaena,F,Dafnée
+455,"Civet, small-toothed palm",Arctogalidia trivirgata,M,Lucrèce
+456,Grey mouse lemur,Microcebus murinus,M,Cléopatre
+457,Aardwolf,Proteles cristatus,M,Maëlyss
+458,"Jackal, golden",Canis aureus,F,Maéna
+459,Currasow (unidentified),Crax sp.,F,Régine
+460,Springhare,Pedetes capensis,F,Marie-thérèse
+461,Common waterbuck,Kobus defassa,F,Ophélie
+462,Snowy owl,Nyctea scandiaca,M,Béatrice
+463,"Bird, pied butcher",Cracticus nigroagularis,M,Sélène
+464,"Wallaby, dama",Macropus eugenii,F,Desirée
+465,Yellow baboon,Papio cynocephalus,M,Jú
+466,"Lourie, grey",Lorythaixoides concolor,M,Cléa
+467,"Seal, southern elephant",Mirounga leonina,M,Léana
+468,"Lion, southern sea",Otaria flavescens,F,Åslög
+469,Tyrant flycatcher,Myiarchus tuberculifer,M,Célestine
+470,Galapagos albatross,Diomedea irrorata,F,Vénus
+471,Black-capped chickadee,Parus atricapillus,F,Maëly
+472,"Deer, savannah",Mazama gouazoubira,F,Régine
+473,"Porcupine, north american",Erethizon dorsatum,F,Zhì
+474,"Squirrel, grey-footed",Paraxerus cepapi,M,Illustrée
+475,Black-backed magpie,Gymnorhina tibicen,F,Mélinda
+476,"Anteater, giant",Myrmecophaga tridactyla,F,Cinéma
+477,"Lizard, giant girdled",Cordylus giganteus,M,Lóng
+478,"Dove, rock",Columba livia,M,Inès
+479,Burrowing owl,Speotyte cuniculata,M,Annotés
+480,Snowy owl,Nyctea scandiaca,M,Kévina
+481,Squirrel glider,Petaurus norfolcensis,F,Noémie
+482,"Tortoise, burmese brown mountain",Manouria emys,F,Anaëlle
+483,Greater roadrunner,Geococcyx californianus,M,Gaétane
+484,"Hedgehog, south african",Erinaceus frontalis,F,Hélèna
+485,"Dolphin, bottle-nose",Tursiops truncatus,F,Lorène
+486,"Cat, civet",Bassariscus astutus,M,Ruò
+487,Purple grenadier,Uraeginthus granatina,M,Léone
+488,Whip-tailed wallaby,Macropus parryi,M,Andréanne
+489,Cape cobra,Naja nivea,M,Tán
+490,Red-breasted cockatoo,Eolophus roseicapillus,M,Angèle
+491,"Dragon, asian water",Physignathus cocincinus,M,Maï
+492,Curve-billed thrasher,Toxostoma curvirostre,M,Méghane
+493,Cook's tree boa,Corallus hortulanus cooki,M,Célestine
+494,"Raccoon, crab-eating",Procyon cancrivorus,M,Gérald
+495,Four-horned antelope,Tetracerus quadricornis,M,Dà
+496,Brown brocket,Mazama gouazoubira,M,Séréna
+497,"Stork, saddle-billed",Ephipplorhynchus senegalensis,F,Loïca
+498,Bushbuck,Tragelaphus scriptus,M,Cinéma
+499,"Lemming, collared",Dicrostonyx groenlandicus,F,Eléa
+500,Western patch-nosed snake,Salvadora hexalepis,M,Geneviève
+501,Hyrax,Dendrohyrax brucel,M,Réjane
+502,Hyrax,Dendrohyrax brucel,F,Cinéma
+503,"Bandicoot, southern brown",Isoodon obesulus,F,Åslög
+504,"Heron, striated",Butorides striatus,F,Célia
+505,"Gecko, tokay",Gekko gecko,F,Kallisté
+506,"Possum, pygmy",Acrobates pygmaeus,M,Intéressant
+507,Turkey vulture,Cathartes aura,F,Amélie
+508,"Flamingo, greater",Phoenicopterus ruber,M,Adélie
+509,Uinta ground squirrel,Spermophilus armatus,M,Géraldine
+510,Crested screamer,Chauna torquata,M,Zhì
+511,Arctic tern,Sterna paradisaea,F,Léonore
+512,"Loris, slender",Loris tardigratus,M,Maïwenn
+513,"Marshbird, brown and yellow",Pseudoleistes virescens,F,Mahélie
+514,"Lizard, mexican beaded",Heloderma horridum,M,Adélie
+515,African clawless otter,Aonyx capensis,M,Clélia
+516,"Rattlesnake, eastern diamondback",Crotalus adamanteus,M,Marie-josée
+517,"Spoonbill, european",Platalea leucordia,F,Cloé
+518,"Snake, green vine",Oxybelis fulgidus,M,Lucrèce
+519,"Mongoose, small indian",Herpestes javanicus,F,Sélène
+520,Brazilian otter,Pteronura brasiliensis,M,Mahélie
+521,"Tortoise, burmese black mountain",Manouria emys,F,Lèi
+522,Yellow-billed stork,Mycteria ibis,M,Liè
+523,Violet-crested turaco,Tauraco porphyrelophus,M,Gisèle
+524,"Mongoose, small indian",Herpestes javanicus,F,Mà
+525,Four-striped grass mouse,Rhabdomys pumilio,M,Ráo
+526,"Lory, rainbow",Trichoglossus haematodus moluccanus,M,Ráo
+527,Swallow (unidentified),unavailable,M,Anaëlle
+528,White-throated monitor,Varanus albigularis,F,Chloé
+529,"Flicker, campo",Colaptes campestroides,M,Clémence
+530,"Beaver, eurasian",Castor fiber,M,Lóng
+531,Arctic lemming,Dicrostonyx groenlandicus,M,Miléna
+532,South African hedgehog,Erinaceus frontalis,F,Salomé
+533,"Skua, long-tailed",Stercorarius longicausus,M,Marlène
+534,"Armadillo, seven-banded",Dasypus septemcincus,F,Nélie
+535,"Gecko, tokay",Gekko gecko,M,Ráo
+536,"Squirrel, nelson ground",Ammospermophilus nelsoni,F,Méthode
+537,Goliath heron,Ardea golieth,M,Östen
+538,"Glider, feathertail",Acrobates pygmaeus,F,Tú
+539,"Booby, blue-faced",Sula dactylatra,F,Noémie
+540,Swallow-tail gull,Creagrus furcatus,F,Uò
+541,"Cardinal, black-throated",Paroaria gularis,M,Anaël
+542,Greater rhea,Rhea americana,F,Judicaël
+543,Striped dolphin,Stenella coeruleoalba,M,Lèi
+544,"Hyena, spotted",Crocuta crocuta,F,Valérie
+545,"Bear, american black",Ursus americanus,M,Agnès
+546,Cape fox,Vulpes chama,F,Kévina
+547,Blue-faced booby,Sula dactylatra,F,Valérie
+548,"Langur, gray",Semnopithecus entellus,F,Marie-noël
+549,"Wallaby, dama",Macropus eugenii,M,Lén
+550,"Squirrel, thirteen-lined",Spermophilus tridecemlineatus,M,Bénédicte
+551,"Racer, american",Coluber constrictor,F,Inès
+552,African wild cat,Felis silvestris lybica,M,Camélia
+553,"Hen, sage",Centrocercus urophasianus,F,Åke
+554,"Owl, australian masked",Tyto novaehollandiae,F,Bérénice
+555,"Colobus, magistrate black",Colobus guerza,M,Eléa
+556,"Gecko, bent-toed",Cyrtodactylus louisiadensis,M,Léonie
+557,Black-throated butcher bird,Cracticus nigroagularis,F,Bénédicte
+558,"Bear, polar",Ursus maritimus,M,Léandre
+559,White-throated kingfisher,Halcyon smyrnesis,M,Lucrèce
+560,"Owl, great horned",Bubo virginianus,M,Märta
+561,"Boa, mexican",Boa constrictor mexicana,M,Ophélie
+562,"Dog, raccoon",Nyctereutes procyonoides,F,Géraldine
+563,"Dove, laughing",Streptopelia senegalensis,F,Naéva
+564,American racer,Coluber constrictor,M,Garçon
+565,Little heron,Butorides striatus,M,Léonie
+566,"Barbet, levaillant's",Trachyphonus vaillantii,F,Lucrèce
+567,Hoary marmot,Marmota caligata,F,Görel
+568,"Otter, brazilian",Pteronura brasiliensis,M,Aloïs
+569,Black-throated cardinal,Paroaria gularis,M,Almérinda
+570,"Turtle, snake-necked",Chelodina longicollis,F,Mélissandre
+571,Common waterbuck,Kobus defassa,M,Rébecca
+572,"Boa, cook's tree",Corallus hortulanus cooki,M,Laïla
+573,Indian peacock,Pavo cristatus,F,Eugénie
+574,"Jackrabbit, white-tailed",Lepus townsendii,F,Dafnée
+575,"Grouse, sage",Centrocercus urophasianus,F,Estée
+576,Striped dolphin,Stenella coeruleoalba,M,Vérane
+577,Burmese brown mountain tortoise,Manouria emys,M,Maïly
+578,"Dove, ring",Columba palumbus,F,Médiamass
+579,"Macaw, blue and gold",Ara ararauna,F,Véronique
+580,Brazilian otter,Pteronura brasiliensis,F,Maéna
+581,Guerza,Colobus guerza,F,Mén
+582,"Rhea, greater",Rhea americana,F,Marylène
+583,Pied crow,Corvus albus,M,Uò
+584,"Shrew, mandras tree",Anathana ellioti,F,Marie-ève
+585,Stone sheep,Ovis dalli stonei,F,Maïwenn
+586,Brown brocket,Mazama gouazoubira,M,Josée
+587,"Badger, american",Taxidea taxus,F,Maï
+588,"Nighthawk, common",Chordeiles minor,M,Médiamass
+589,"Zebra, plains",Equus burchelli,F,Marie-josée
+590,Tiger snake,Notechis semmiannulatus,F,Ruò
+591,Mourning collared dove,Streptopelia decipiens,M,Josée
+592,Red deer,Cervus elaphus,F,Börje
+593,"Opossum, american virginia",Didelphis virginiana,M,Marie-hélène
+594,Snake-necked turtle,Chelodina longicollis,M,Mélinda
+595,Pine squirrel,Tamiasciurus hudsonicus,M,Liè
+596,Greater flamingo,Phoenicopterus ruber,F,Tán
+597,"Civet, common palm",Paradoxurus hermaphroditus,M,Gaétane
+598,Blue and yellow macaw,Ara ararauna,M,Maëlla
+599,"Lemming, collared",Dicrostonyx groenlandicus,F,Kuí
+600,Cheetah,Acinynox jubatus,F,Örjan
+601,"Snake, buttermilk",Coluber constrictor,M,Régine
+602,Asian water buffalo,Bubalus arnee,M,Léone
+603,"Hawk-eagle, crowned",Spizaetus coronatus,F,Loïc
+604,"Hoopoe, eurasian",Upupa epops,F,Eliès
+605,"Porcupine, north american",Erethizon dorsatum,F,Åslög
+606,"Racer, blue",Coluber constrictor foxii,F,Cléa
+607,Chestnut weaver,Ploceus rubiginosus,F,Rachèle
+608,"Possum, common brushtail",Trichosurus vulpecula,F,Médiamass
+609,"Deer, white-tailed",Odocoilenaus virginianus,M,Ophélie
+610,"Antelope, four-horned",Tetracerus quadricornis,M,Méryl
+611,"Devil, tasmanian",Sarcophilus harrisii,F,Séréna
+612,"Skink, african",Mabuya spilogaster,F,Gaëlle
+613,Topi,Damaliscus lunatus,M,Maéna
+614,"Tern, white-winged",Chlidonias leucopterus,M,Maïlys
+615,"Buffalo, american",Bison bison,F,Léone
+616,Dassie,Dendrohyrax brucel,M,Méryl
+617,Long-tailed jaeger,Stercorarius longicausus,M,Edmée
+618,"Hartebeest, red",Alcelaphus buselaphus caama,F,Lèi
+619,"Barbet, black-collared",Lybius torquatus,F,Nélie
+620,Canadian river otter,Lutra canadensis,M,Naéva
+621,"Genet, common",Genetta genetta,F,Béatrice
+622,"Sheep, red",Ovis ammon,M,Judicaël
+623,"Nighthawk, common",Chordeiles minor,F,Cléa
+624,"Cormorant, pied",Phalacrocorax varius,F,Clélia
+625,Carpet snake,Morelia spilotes variegata,F,Lauréna
+626,Black-throated cardinal,Paroaria gularis,F,Aurélie
+627,"Gorilla, western lowland",Gorilla gorilla,M,Liè
+628,Springbuck,Antidorcas marsupialis,M,Stévina
+629,"Nighthawk, common",Chordeiles minor,F,Léa
+630,"Langur, common",Semnopithecus entellus,M,Märta
+631,Fringe-eared oryx,Oryx gazella callotis,M,Réservés
+632,Masked booby,Sula dactylatra,M,Renée
+633,Water legaan,Varanus salvator,F,Ruì
+634,"Bear, sloth",Melursus ursinus,F,Joséphine
+635,"Dog, african wild",Lycaon pictus,M,Åke
+636,"Woodpecker, downy",Picoides pubescens,M,Fèi
+637,Collared peccary,Tayassu tajacu,M,Clémence
+638,"White-eye, pale",Zosterops pallidus,M,Marie-ève
+639,"Lizard, giant girdled",Cordylus giganteus,M,Estève
+640,"Eland, common",Taurotagus oryx,M,Laurène
+641,Northern elephant seal,Mirounga angustirostris,M,Pò
+642,"Dolphin, bottle-nose",Tursiops truncatus,F,Stévina
+643,Brindled gnu,Connochaetus taurinus,F,Lauréna
+644,"Francolin, coqui",Francolinus coqui,F,Maëlle
+645,Secretary bird,Sagittarius serpentarius,F,Pénélope
+646,"Dragonfly, russian",Libellula quadrimaculata,M,Léa
+647,Harbor seal,Phoca vitulina,M,Bérénice
+648,"Owl, australian masked",Tyto novaehollandiae,F,Bérengère
+649,"Heron, goliath",Ardea golieth,M,Åsa
+650,Black-faced kangaroo,Macropus fuliginosus,M,Crééz
+651,"Whale, southern right",Eubalaena australis,M,Pål
+652,"Duiker, gray",Sylvicapra grimma,M,Pélagie
+653,Asian false vampire bat,Megaderma spasma,F,Bérangère
+654,Jaguarundi,Felis yagouaroundi,M,Åslög
+655,"Owl, madagascar hawk",Ninox superciliaris,M,Maïté
+656,Magnificent frigate bird,Fregata magnificans,F,Léa
+657,"Langur, gray",Semnopithecus entellus,M,Mahélie
+658,Russian dragonfly,Libellula quadrimaculata,F,Pål
+659,"Eagle, tawny",Anitibyx armatus,F,Adélie
+660,Spotted-tailed quoll,Dasyurus maculatus,F,Bérangère
+661,"Gull, swallow-tail",Creagrus furcatus,M,Cinéma
+662,Pocket gopher (unidentified),unavailable,F,Marie-thérèse
+663,Black spider monkey,Ateles paniscus,M,Lyséa
+664,Brown capuchin,Cebus apella,F,Desirée
+665,White-throated robin,Irania gutteralis,M,Anaël
+666,"Alligator, american",Alligator mississippiensis,M,Gaétane
+667,Yellow-rumped siskin,Carduelis uropygialis,F,Pål
+668,"Barbet, black-collared",Lybius torquatus,F,Mélodie
+669,"Rabbit, eastern cottontail",Sylvilagus floridanus,F,Laurélie
+670,Marabou stork,Leptoptilos crumeniferus,F,Séverine
+671,"Beaver, american",Castor canadensis,F,Laurélie
+672,"Colobus, magistrate black",Colobus guerza,M,Adèle
+673,"Goldeneye, barrows",Bucephala clangula,F,Andréa
+674,"Magpie, black-backed",Gymnorhina tibicen,M,Táng
+675,African ground squirrel (unidentified),Xerus sp.,F,Gisèle
+676,"Deer, savannah",Mazama gouazoubira,M,Yénora
+677,Grizzly bear,Ursus arctos,F,Séréna
+678,Canadian tiger swallowtail butterfly,Papilio canadensis,M,Adélie
+679,Gulls (unidentified),Larus sp.,M,Naéva
+680,Red-billed toucan,Ramphastos tucanus,M,Mégane
+681,Pallas's fish eagle,Haliaeetus leucoryphus,M,Léone
+682,"Goose, cereopsis",Cereopsis novaehollandiae,F,Andréa
+683,Common zebra,Equus burchelli,M,Méthode
+684,Meerkat,Suricata suricatta,M,Sòng
+685,Campo flicker,Colaptes campestroides,M,Maïly
+686,"Otter, giant",Pteronura brasiliensis,F,Loïca
+687,Mocking cliffchat,Thamnolaea cinnmomeiventris,F,Maï
+688,Large cormorant,Phalacrocorax carbo,M,Desirée
+689,Three-banded plover,Charadrius tricollaris,M,Lucrèce
+690,California sea lion,Zalophus californicus,M,Stévina
+691,River wallaby,Macropus agilis,M,Loïc
+692,Curve-billed thrasher,Toxostoma curvirostre,F,Salomé
+693,"Gorilla, western lowland",Gorilla gorilla,F,Vérane
+694,Cereopsis goose,Cereopsis novaehollandiae,F,Hélène
+695,"Kite, black",Milvus migrans,F,Liè
+696,"Screamer, crested",Chauna torquata,M,Dorothée
+697,Eleven-banded armadillo (unidentified),Cabassous sp.,F,Mélissandre
+698,"Alligator, mississippi",Alligator mississippiensis,F,Kallisté
+699,Weeper capuchin,Cebus nigrivittatus,F,Léana
+700,White-throated robin,Irania gutteralis,M,Lén
+701,"Kingfisher, white-throated",Halcyon smyrnesis,M,Régine
+702,African porcupine,Hystrix cristata,F,Kallisté
+703,"Dunnart, fat-tailed",Smithopsis crassicaudata,F,Inès
+704,Roan antelope,Hippotragus equinus,F,Yénora
+705,Sable antelope,Hippotragus niger,M,Gaïa
+706,"Armadillo, giant",Priodontes maximus,F,Yénora
+707,"Hornbill, leadbeateri's ground",Bucorvus leadbeateri,M,Zoé
+708,Orca,Orcinus orca,F,Anaïs
+709,South American sea lion,Otaria flavescens,M,Kù
+710,"Skua, great",Catharacta skua,M,Annotée
+711,Brown lemur,Lemur fulvus,M,Aí
+712,"Flamingo, greater",Phoenicopterus ruber,M,Adèle
+713,Brown and yellow marshbird,Pseudoleistes virescens,F,Cléopatre
+714,Bonnet macaque,Macaca radiata,F,Bérangère
+715,Red-tailed hawk,Buteo jamaicensis,F,Göran
+716,"Cardinal, red-capped",Paroaria gularis,F,Desirée
+717,"Leopard, indian",Panthera pardus,M,Crééz
+718,African lynx,Felis caracal,M,Nuó
+719,Southern white-crowned shrike,Eurocephalus anguitimens,F,Vénus
+720,Knob-nosed goose,Sarkidornis melanotos,M,Vérane
+721,Long-tailed skua,Stercorarius longicausus,F,Bérénice
+722,Olive baboon,Papio cynocephalus,F,Salomé
+723,White-throated monitor,Varanus albigularis,M,Maï
+724,"Bleu, red-cheeked cordon",Uraeginthus bengalus,F,Lóng
+725,"Crow, american",Corvus brachyrhynchos,M,Pål
+726,Pig-tailed macaque,Macaca nemestrina,M,Chloé
+727,Pied avocet,Recurvirostra avosetta,M,Yóu
+728,Gecko (unidentified),unavailable,F,Valérie
+729,"Anteater, australian spiny",Tachyglossus aculeatus,F,Bérénice
+730,"Cat, miner's",Bassariscus astutus,F,Dà
+731,Long-finned pilot whale,Globicephala melas,F,Kévina
+732,Four-spotted skimmer,Libellula quadrimaculata,F,Adèle
+733,Baleen whale,Eubalaena australis,F,Cléopatre
+734,"Owl, white-browed",Ninox superciliaris,M,Intéressant
+735,Southern brown bandicoot,Isoodon obesulus,M,Irène
+736,Blue catfish,Ictalurus furcatus,M,Dafnée
+737,Silver-backed fox,Vulpes chama,F,Eliès
+738,Sulfur-crested cockatoo,Cacatua galerita,F,Méryl
+739,Tiger snake,Notechis semmiannulatus,F,Marie-josée
+740,Black curlew,Haematopus ater,F,Véronique
+741,"Caiman, spectacled",Caiman crocodilus,F,Håkan
+742,"Cat, miner's",Bassariscus astutus,F,Lài
+743,Agama lizard (unidentified),Agama sp.,F,Desirée
+744,Fairy penguin,Eudyptula minor,F,Néhémie
+745,"Cat, native",Dasyurus viverrinus,F,Zhì
+746,Chacma baboon,Papio ursinus,F,Liè
+747,Adouri (unidentified),unavailable,F,Céline
+748,White-mantled colobus,Colobus guerza,M,Lorène
+749,Gambel's quail,Callipepla gambelii,F,Cléopatre
+750,Indian red admiral,Vanessa indica,M,Aloïs
+751,"Lion, steller's sea",Eumetopias jubatus,F,Göran
+752,North American porcupine,Erethizon dorsatum,M,Chloé
+753,Madagascar fruit bat,Pteropus rufus,M,Mårten
+754,Little brown dove,Streptopelia senegalensis,F,Mélissandre
+755,African black crake,Limnocorax flavirostra,F,Bénédicte
+756,Desert kangaroo rat,Dipodomys deserti,F,Méthode
+757,Hanuman langur,Semnopithecus entellus,M,Camélia
+758,Crab (unidentified),unavailable,F,Zhì
+759,"Colobus, magistrate black",Colobus guerza,M,Gwenaëlle
+760,Wattled crane,Bugeranus caruncalatus,F,Eliès
+761,Asian false vampire bat,Megaderma spasma,M,Maïlis
+762,"Dove, white-winged",Zenaida asiatica,M,Adélie
+763,Sulfur-crested cockatoo,Cacatua galerita,F,Maëlys
+764,"Gull, lava",Larus fuliginosus,F,Audréanne
+765,Darwin ground finch (unidentified),Geospiza sp.,F,Lyséa
+766,"Lory, rainbow",Trichoglossus haematodus moluccanus,F,Zhì
+767,"Capuchin, black-capped",Cebus apella,F,Maëlla
+768,"Wolf, mexican",Canis lupus baileyi,F,Marie-noël
+769,Common zebra,Equus burchelli,F,Séverine
+770,Wild turkey,Meleagris gallopavo,F,Angèle
+771,Brown lemur,Lemur fulvus,F,Hélèna
+772,Frog (unidentified),Rana sp.,M,Léana
+773,"Spider, wolf",Lycosa godeffroyi,F,Cinéma
+774,"Pelican, great white",Pelecans onocratalus,M,Annotée
+775,Japanese macaque,Macaca fuscata,M,Maëlyss
+776,Greater sage grouse,Centrocercus urophasianus,M,Léane
+777,Common brushtail possum,Trichosurus vulpecula,M,Almérinda
+778,"Fox, cape",Vulpes chama,F,Pénélope
+779,"Kangaroo, jungle",Macropus agilis,M,Faîtes
+780,Blue racer,Coluber constrictor foxii,M,Véronique
+781,Kafue flats lechwe,Kobus leche robertsi,M,Maïwenn
+782,Superb starling,Lamprotornis superbus,M,Maïwenn
+783,Paddy heron (unidentified),unavailable,F,Wá
+784,"Iguana, marine",Amblyrhynchus cristatus,M,Loïc
+785,Plains zebra,Equus burchelli,M,Yè
+786,"Starling, cape",Lamprotornis nitens,M,Aloïs
+787,Southern sea lion,Otaria flavescens,F,Régine
+788,"Cat, cape wild",Felis libyca,M,Desirée
+789,Common waterbuck,Kobus defassa,M,Intéressant
+790,Grey fox,Vulpes cinereoargenteus,F,Michèle
+791,"Rhea, gray",Rhea americana,M,Märta
+792,"Chipmunk, least",Eutamias minimus,M,Cécilia
+793,"Booby, blue-footed",Sula nebouxii,F,Gösta
+794,European wild cat,Felis silvestris lybica,F,Angélique
+795,"Crane, wattled",Bugeranus caruncalatus,M,Méryl
+796,African buffalo,Snycerus caffer,M,Amélie
+797,Uinta ground squirrel,Spermophilus armatus,F,Gérald
+798,"Crane, blue",Anthropoides paradisea,F,Athéna
+799,"Otter, north american river",Lutra canadensis,F,Thérèsa
+800,Manatee,Trichechus inunguis,M,Clélia
+801,"Heron, goliath",Ardea golieth,M,Noémie
+802,Euro wallaby,Macropus robustus,F,Mégane
+803,Tokay gecko,Gekko gecko,F,Lèi
+804,Red-winged hawk (unidentified),unavailable,F,Médiamass
+805,"Heron, boat-billed",Cochlearius cochlearius,M,Ruì
+806,Horned puffin,Fratercula corniculata,M,Marie-ève
+807,Crown of thorns starfish,Acanthaster planci,M,Nuó
+808,"Penguin, magellanic",Spheniscus magellanicus,F,Angélique
+809,"Eagle, long-crested hawk",Lophoaetus occipitalis,M,Maëlla
+810,"Otter, cape clawless",Aonyx capensis,F,Naéva
+811,"Tamandua, southern",Tamandua tetradactyla,M,Gwenaëlle
+812,"Kangaroo, red",Macropus rufus,F,Lóng
+813,Black-crowned crane,Balearica pavonina,M,Régine
+814,Bottle-nose dolphin,Tursiops truncatus,F,Hélèna
+815,"Hawk, galapagos",Buteo galapagoensis,M,Audréanne
+816,"Goose, canada",Branta canadensis,M,Nadège
+817,Leopard,Panthera pardus,F,Annotée
+818,"Devil, tasmanian",Sarcophilus harrisii,F,Hélèna
+819,Oribi,Ourebia ourebi,F,Cécile
+820,Fisher,Martes pennanti,M,Anaé
+821,"Jackal, golden",Canis aureus,M,Léana
+822,"Bandicoot, short-nosed",Isoodon obesulus,M,Océane
+823,"Shrike, crimson-breasted",Laniaurius atrococcineus,M,Gösta
+824,Black swan,Cygnus atratus,F,Josée
+825,Peregrine falcon,Falco peregrinus,M,Aimée
+826,Blue-tongued lizard,Tiliqua scincoides,F,Mélina
+827,Gulls (unidentified),Larus sp.,M,Kù
+828,Pied cormorant,Phalacrocorax varius,M,Séréna
+829,Red-shouldered glossy starling,Lamprotornis nitens,F,Görel
+830,Wolf spider,Lycosa godeffroyi,M,Mélys
+831,Black spider monkey,Ateles paniscus,M,Vérane
+832,"Loris, slender",Loris tardigratus,F,Yénora
+833,Black rhinoceros,Diceros bicornis,F,Maëlla
+834,"Lizard, frilled",Chlamydosaurus kingii,F,Maëlle
+835,"Legaan, Monitor (unidentified)",Varanus sp.,F,Célia
+836,"Jackal, indian",Canis aureus,F,Östen
+837,Roan antelope,Hippotragus equinus,F,Mélinda
+838,"Heron, striated",Butorides striatus,M,Eliès
+839,"Shrike, common boubou",Laniarius ferrugineus,F,Mégane
+840,Red-knobbed coot,Fulica cristata,F,Ráo
+841,Long-tailed spotted cat,Felis wiedi or Leopardus weidi,M,Marie-thérèse
+842,"Rhea, common",Rhea americana,F,Aurélie
+843,"Shrike, common boubou",Laniarius ferrugineus,F,Naéva
+844,Swallow-tail gull,Creagrus furcatus,M,Marylène
+845,Cape white-eye,Zosterops pallidus,F,Magdalène
+846,Land iguana,Conolophus subcristatus,M,Mélissandre
+847,"Racer, american",Coluber constrictor,M,Eléonore
+848,Blue waxbill,Uraeginthus angolensis,F,Dorothée
+849,"Hawk, ferruginous",Buteo regalis,M,Naëlle
+850,"Squirrel, pine",Tamiasciurus hudsonicus,F,Thérèse
+851,"Opossum, american virginia",Didelphis virginiana,M,Faîtes
+852,Paddy heron (unidentified),unavailable,F,Mélina
+853,Indian jackal,Canis aureus,F,Ruò
+854,"Pelican, great white",Pelecans onocratalus,M,Mélanie
+855,African darter,Anhinga rufa,F,Méghane
+856,Gerbil (unidentified),Gerbillus sp.,M,Desirée
+857,Beisa oryx,Oryx gazella,M,Edmée
+858,Yellow-billed hornbill,Tockus flavirostris,F,Yú
+859,"Deer, red",Cervus elaphus,F,Gaïa
+860,Bennett's wallaby,Macropus rufogriseus,M,Laurène
+861,Harbor seal,Phoca vitulina,F,Eugénie
+862,"Sloth, hoffman's",Choloepus hoffmani,F,Marylène
+863,Common grenadier,Uraeginthus granatina,M,Mahélie
+864,Greater roadrunner,Geococcyx californianus,M,Lorène
+865,"Openbill, asian",Anastomus oscitans,M,Salomé
+866,Malachite kingfisher,Corythornis cristata,M,Géraldine
+867,"Gazer, sun",Cordylus giganteus,F,Méryl
+868,Great egret,Casmerodius albus,F,Maëlyss
+869,"Gull, swallow-tail",Creagrus furcatus,M,Uò
+870,"Squirrel, european red",Sciurus vulgaris,M,Mélys
+871,Great egret,Casmerodius albus,M,Lóng
+872,Antelope ground squirrel,Ammospermophilus nelsoni,M,Marie-thérèse
+873,"Fowl, helmeted guinea",Numida meleagris,F,Miléna
+874,"Wombat, common",Vombatus ursinus,F,Ráo
+875,Whip-tailed wallaby,Macropus parryi,M,Marylène
+876,Indian jackal,Canis aureus,M,Pélagie
+877,Short-nosed bandicoot,Isoodon obesulus,F,Aloïs
+878,"Cormorant, javanese",Phalacrocorax niger,M,Anaïs
+879,"Deer, roe",Capreolus capreolus,M,Rachèle
+880,"Dragonfly, russian",Libellula quadrimaculata,M,Lorène
+881,Steenbuck,Raphicerus campestris,M,Yè
+882,Gulls (unidentified),Larus sp.,F,Dafnée
+883,Two-toed tree sloth,Choloepus hoffmani,F,Célestine
+884,Eurasian badger,Meles meles,F,Maïly
+885,Gerbil (unidentified),Gerbillus sp.,F,Bérénice
+886,"Francolin, coqui",Francolinus coqui,F,Cécile
+887,"Bulbul, black-eyed",Pycnonotus barbatus,F,Annotés
+888,"Sungazer, yellow-brown",Cordylus giganteus,F,Måns
+889,"Camel, dromedary",Camelus dromedarius,F,Dù
+890,"Barbet, crested",Trachyphonus vaillantii,F,Bécassine
+891,Tree porcupine,Coendou prehensilis,F,Pénélope
+892,"Ox, musk",Ovibos moschatus,F,Béatrice
+893,Black-eyed bulbul,Pycnonotus barbatus,M,Thérèsa
+894,Savanna baboon,Papio cynocephalus,F,Thérèse
+895,Cuis,Microcavia australis,M,Kallisté
+896,Hudsonian godwit,Limosa haemastica,M,Françoise
+897,Radiated tortoise,Geochelone radiata,M,Séverine
+898,"Peccary, collared",Tayassu tajacu,M,Uò
+899,Silver gull,Larus novaehollandiae,F,Hélèna
+900,"Stork, white",Ciconia ciconia,M,Bérénice
+901,"Kingfisher, malachite",Corythornis cristata,M,Sòng
+902,Blue crane,Anthropoides paradisea,M,Andréanne
+903,Grey mouse lemur,Microcebus murinus,M,Renée
+904,Crowned eagle,Spizaetus coronatus,F,Agnès
+905,Tammar wallaby,Macropus eugenii,F,Bérénice
+906,"Pelican, australian",Pelecanus conspicillatus,M,Aloïs
+907,Arctic fox,Alopex lagopus,F,Måns
+908,Frog (unidentified),Rana sp.,M,Åke
+909,Meerkat,Suricata suricatta,M,Estève
+910,"Eland, common",Taurotagus oryx,F,Céline
+911,Indian red admiral,Vanessa indica,M,Ruò
+912,Australian masked owl,Tyto novaehollandiae,M,Sòng
+913,"Beaver, american",Castor canadensis,F,Mélodie
+914,"Stork, openbill",Anastomus oscitans,F,Adélie
+915,"Glider, feathertail",Acrobates pygmaeus,M,Åke
+916,Canadian tiger swallowtail butterfly,Papilio canadensis,M,Léane
+917,"Sheep, red",Ovis ammon,M,Véronique
+918,Brown capuchin,Cebus apella,F,Maï
+919,"Hare, arctic",Lepus arcticus,F,Séverine
+920,Beisa oryx,Oryx gazella,F,Lài
+921,"Goose, canada",Branta canadensis,M,Rachèle
+922,African ground squirrel (unidentified),Xerus sp.,F,Åsa
+923,Long-billed cockatoo,Cacatua tenuirostris,M,Anaïs
+924,"Armadillo, seven-banded",Dasypus septemcincus,M,Mélinda
+925,Steller sea lion,Eumetopias jubatus,M,Gérald
+926,Indian red admiral,Vanessa indica,M,Gösta
+927,Brazilian tapir,Tapirus terrestris,F,Judicaël
+928,"Nuthatch, red-breasted",Sitta canadensis,F,Yáo
+929,"Insect, stick",Leprocaulinus vipera,M,Michèle
+930,Cape raven,Corvus albicollis,M,Audréanne
+931,"Otter, oriental short-clawed",Aonyx cinerea,F,Geneviève
+932,"Dog, raccoon",Nyctereutes procyonoides,F,Maëlla
+933,"Seal, southern elephant",Mirounga leonina,M,Mélanie
+934,"Squirrel, african bush",Paraxerus cepapi,F,Joséphine
+935,Yellow-billed hornbill,Tockus flavirostris,F,Liè
+936,Guerza,Colobus guerza,F,Yú
+937,"Kangaroo, black-faced",Macropus fuliginosus,F,Bérengère
+938,"Waxbill, violet-eared",Uraeginthus granatina,M,Pélagie
+939,"Deer, white-tailed",Odocoilenaus virginianus,F,Dù
+940,"Viper, egyptian",Naja haje,F,Simplifiés
+941,"Heron, goliath",Ardea golieth,F,Léa
+942,Great cormorant,Phalacrocorax carbo,F,Uò
+943,"Bettong, brush-tailed",Bettongia penicillata,F,Inès
+944,Leadbeateri's ground hornbill,Bucorvus leadbeateri,F,Salomé
+945,"Bleu, blue-breasted cordon",Uraeginthus angolensis,F,Göran
+946,Bush dog,Speothos vanaticus,M,Eléonore
+947,Scarlet macaw,Ara macao,F,Bérénice
+948,Crested porcupine,Hystrix cristata,F,Ráo
+949,Green vine snake,Oxybelis fulgidus,M,Annotés
+950,Tasmanian devil,Sarcophilus harrisii,M,Börje
+951,"Phalarope, red",Phalaropus fulicarius,F,Lauréna
+952,Roseat flamingo,Phoenicopterus ruber,M,Maëly
+953,Pine squirrel,Tamiasciurus hudsonicus,F,Sélène
+954,Black-crowned night heron,Nycticorax nycticorax,F,Kallisté
+955,Civet cat,Bassariscus astutus,F,Renée
+956,Tammar wallaby,Macropus eugenii,F,Ráo
+957,"Stork, saddle-billed",Ephipplorhynchus senegalensis,F,Cinéma
+958,Goanna lizard,Varanus sp.,M,Yóu
+959,Indian peacock,Pavo cristatus,M,Aloïs
+960,Eastern fox squirrel,Sciurus niger,M,Cunégonde
+961,Small-clawed otter,Aonyx cinerea,M,Marie-hélène
+962,Arctic ground squirrel,Spermophilus parryii,F,Gaïa
+963,"Pelican, great white",Pelecans onocratalus,M,Thérèse
+964,"Dog, african wild",Lycaon pictus,M,André
+965,"Hornbill, southern ground",Bucorvus leadbeateri,F,Stévina
+966,"Otter, african clawless",Aonyx capensis,M,Uò
+967,"Rhea, greater",Rhea americana,M,Yóu
+968,Saddle-billed stork,Ephipplorhynchus senegalensis,M,Aimée
+969,African polecat,Ictonyx striatus,F,Fèi
+970,"Eagle, golden",Aquila chrysaetos,F,Desirée
+971,White-faced whistling duck,Dendrocygna viduata,F,Mårten
+972,"Booby, blue-faced",Sula dactylatra,F,Maëlys
+973,"Bandicoot, short-nosed",Isoodon obesulus,M,Märta
+974,"Cormorant, great",Phalacrocorax carbo,M,Cinéma
+975,Long-billed corella,Cacatua tenuirostris,F,Agnès
+976,"Genet, small-spotted",Genetta genetta,M,Mélinda
+977,African red-eyed bulbul,Pycnonotus nigricans,M,Anaé
+978,House crow,Corvus brachyrhynchos,F,Hélèna
+979,"Buffalo, african",Snycerus caffer,M,Yénora
+980,Galapagos mockingbird,Nesomimus trifasciatus,F,Mélodie
+981,Gaur,Bos frontalis,F,Amélie
+982,"Baboon, chacma",Papio ursinus,F,Simplifiés
+983,"Deer, swamp",Cervus duvauceli,F,Méng
+984,"Peacock, blue",Pavo cristatus,F,Kuí
+985,Little cormorant,Phalacrocorax niger,F,Lài
+986,Slender-billed cockatoo,Cacatua tenuirostris,M,Táng
+987,"Dolphin, bottle-nose",Tursiops truncatus,F,Régine
+988,Weeper capuchin,Cebus nigrivittatus,M,Nadège
+989,River wallaby,Macropus agilis,M,Laurélie
+990,"Lizard, mexican beaded",Heloderma horridum,F,Mélys
+991,Margay,Felis wiedi or Leopardus weidi,F,Pål
+992,"Wolf, common",Canis lupus,M,Åke
+993,"Turkey, common",Meleagris gallopavo,M,Mahélie
+994,South American sea lion,Otaria flavescens,M,Miléna
+995,"Cat, miner's",Bassariscus astutus,F,Yè
+996,"Eland, common",Taurotagus oryx,F,Esbjörn
+997,Giant girdled lizard,Cordylus giganteus,F,Måns
+998,Gray duiker,Sylvicapra grimma,F,Léone
+999,"Turkey, australian brush",Alectura lathami,M,Åke
+1000,"Crow, american",Corvus brachyrhynchos,F,Naéva

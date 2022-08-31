@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twig/twig": "^3.0",
+        "silverstripe/framework": "^4.9",
+        "silverstripe/vendor-plugin": "^1.5",
+        "silverstripe/sqlite3": "^2.2"
+    }
+}
